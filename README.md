@@ -51,7 +51,7 @@ IT 248 Game and Entertainment Programming
 
 **Topics include**
 * Game Development Phases
-* Exploration of open and closed source game engines ([Phaser](http://phaser.io/), [Blender Game Engine](http://blender.org/), [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4), [Unity 3D](http://unity3d.com/), [Godot](http://www.godotengine.org/projects/godot-engine), [jMonkeyEngine](http://jmonkeyengine.org/tour/introduction/) ...etc)
+* Exploration of open and closed source game engines ([Phaser](http://phaser.io/), [Blender Game Engine](http://blender.org/), [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4), [Unity 3D](http://unity3d.com/), [Godot](http://www.godotengine.org/projects/godot-engine), [LÖVE Game Engine](https://love2d.org), [jMonkeyEngine](http://jmonkeyengine.org/tour/introduction/) ...etc)
 * Game design and mechanics
 * Using game assets and prefabs
 * World/Level Design
