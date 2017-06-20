@@ -142,6 +142,12 @@ Participation | 10%
 
 Final Grade = 50% (midterm) + 50% (tentative)
 ***
+
+### Academic Partners
+* Unreal Engine [[link](https://www.unrealengine.com/academic-partners)]
+* [Xenko](http://xenko.com/) (In progress)
+* Aseprite (In progress) visit https://www.aseprite.org/educational/ for more info.
+
 ## Resources
 ### Recommended Reading
 > In random order.
