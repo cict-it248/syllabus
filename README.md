@@ -44,24 +44,24 @@ IT 248 Game and Entertainment Programming
 * Prerequisite: IT 203, IT 205
 
 #### School Year | Semester | Schedule
-2015-2016 | First | TBA
+2017-2018 | First | TBA
 
 #### Course Description
 > This course provides students with an in-depth introduction to technologies and best practices used in the game and entertainment development industry today and is focused on rapidly developing game prototypes.
 
 **Topics include**
-* Game Development History
+* Game Development Phases
 * Exploration of open and closed source game engines ([Phaser](http://phaser.io/), [Blender Game Engine](http://blender.org/), [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4), [Unity 3D](http://unity3d.com/), [Godot](http://www.godotengine.org/projects/godot-engine), [jMonkeyEngine](http://jmonkeyengine.org/tour/introduction/) ...etc)
 * Game design and mechanics
-* Game assets and prefabs
+* Using game assets and prefabs
 * World/Level Design
-* Game objects and prefabs interaction/manipulation
+* Game object interaction/manipulation
 * Game Programming
-* Game events such as triggers, time and collisions
-* User Interface for Games, HUDs
+* Handling game events such as triggers, time and collisions
+* Creating User Interface for Games, HUDs
 * Virtual and Augmented Reality
 * Networking
-* Platform Development
+* Multi-Platform Game Development
 
 Topics will be demonstrated through live-code examples/slides, videos and demos.
 
@@ -69,7 +69,7 @@ Topics will be demonstrated through live-code examples/slides, videos and demos.
 Mark Joseph J. Solidarios, [mjsolidarios@wvsu.edu.ph](mjsolidarios@wvsu.edu.ph)
 
 #### Requirements
-* A GitHub account and knowledge of using Git.
+* (Optional) A GitHub account and knowledge of using Git.
 * Must demonstrate "good programming style"
  * Use Object-Oriented Programming
  * Functions should be short (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
@@ -113,11 +113,10 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 | ---- | ---- |
 | **Class 1**. The University and College | Vision, Mission, Core Values, Outcomes of West Visayas State Univeristy and Objectives of College of Information and Communications Technology
 | **Class 2**. Introduction | Discuss what the class is going to cover, show intro demos, the course requirements and class reminders.
-| **Class 3**. Foundations of Game Development | <ul><li>What is a game? <ul><li>History</li><li>Elements</li></ul></li><li>The Game Design Process<ul><li>Gameplay and Mechanics</li><li>Pitch Document</li></ul></li><li>Exploring the game development tools</li><li>2D and 3D game development</li><li>Artificial Intelligence for Games</li></ul>**Lab Exercise**<br><ul><li>Kudo Game Lab / Project Spark (**#group** - maximum of five members per team)</li></ul> **Homework**<br><ul><li>[GitHub practice](https://github.com/iict-it227/students) - "Code Bending". Learn how to push and pull code.</li><li>Pitch document for your Kudo Game (**#group** - maximum of five members per team) **- to be presented in class with a demo.**</li></ul>
+| **Class 3**. Foundations of Game Development | <ul><li>Phases of Game Development <ul><li>Design</li><li>Create</li><li>Build</li></ul></li><li>The Game Design Document</li><li>Exploring the Different Game Development Tools</li><li>2D and 3D Game Development in a Nutshell</li><li>Artificial Intelligence for Games</li></ul>**Lab Exercise**<br><ul><li>Kudo Game Lab / Project Spark (**#group** - maximum of five members per team)</li></ul> **Homework**<br><ul><li>[GitHub practice](https://github.com/iict-it227/students) - "Code Bending". Learn how to push and pull code.</li><li>Pitch document for your Kudo Game (**#group** - maximum of five members per team) **- to be presented in class with a demo.**</li></ul>
 | **Class 4**. Gaming on the Web. | <ul><li>HTML5 game programming using the [Phaser Game Engine](http://phaser.io/).</li><li>Exploration of HTML5 2D and 3D game demos.</li></ul>
-| **Class 5**. 2D Game Development with FOSS - Free and Open-Source Software | <ul><li>Introduction to Python Programming</li></ul><ul></li><li>Godot Game Engine<ul><li>Godot Game Engine Overview</li><li>Scenes and Nodes</li><li>Scripting</li><li>Animation</li><li>Physics</li><li>Game Mechanics and Artificial Intelligence</li></ul></li></ul>
-| **Class 6**. 3D Game Development using Unreal Game Engine | <ul><li>Unreal Engine 4 Basics.<ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Actors</li><li>Running the Build Process</li></ul></li><li>Programming<ul><li>Implementing Artificial Intelligence in UE4</li><li>Blueprints and Visual Scripting</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul>**Homework**<br><ul><li>Third Person Horror  Game (**#group** - maximum of five members per team).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
-| **Class 7**. 3D Game Development with Unity | <ul><li>First look at Unity Game Engine</li><ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Objects</li><li>Running the Build Process</li></li></ul><li>Programming<ul><li>Implementing Artificial Intelligence in Unity</li><li>C# using MonoDevelop for Unity</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul></ul>**Homework**<br><ul><li>Multiplayer Flying Shooter  Game (**#group** - maximum of five members per team).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
+| **Class 5**. 2D Game Development with FOSS - Free and Open-Source Software | <ul><li>Introduction to Python Programming</li><li>[LÖVE Game Engine](https://love2d.org/) and Lua</li></ul><ul></li><li>Godot Game Engine<ul><li>Godot Game Engine Overview</li><li>Scenes and Nodes</li><li>Scripting</li><li>Animation</li><li>Physics</li><li>Game Mechanics and Artificial Intelligence</li></ul></li></ul>
+| **Class 6**. 3D Game Development using Unreal Game Engine | <ul><li>Introduction to 3D Graphics and [Unreal Engine 4 "UE4"](https://www.unrealengine.com/what-is-unreal-engine-4)</li><li>Unreal Engine 4 Basics<ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Actors</li><li>Running the Build Process</li></ul></li><li>Programming<ul><li>Implementing Artificial Intelligence in UE4</li><li>Blueprints and Visual Scripting</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul>**Homework**<br><ul><li>Third Person Horror  Game (**#group** - maximum of five members per team).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs. **Homework**<br><li>Multiplayer Flying Shooter  Game (**#group** - maximum of five members per team).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
 
 #### Grading
 > Midterm
@@ -126,7 +125,7 @@ Criteria | %
 ---- | :----:
 Homework | 25%
 Laboratory Game Projects | 15%
-Midterm Game Project | 20%
+Midterm Project | 20%
 Midterm Exam | 30%
 Participation | 10%
 
@@ -137,8 +136,8 @@ Criteria | %
 ---- | :----:
 Homework | 25%
 Laboratory Game Projects | 15%
-Finals Game Project | 20%
-Mini-GameDev Seminar | 30%
+Finals Game Project | 35%
+Game Dev Article | 15%
 Participation | 10%
 
 Final Grade = 50% (midterm) + 50% (tentative)
